@@ -76,7 +76,7 @@ for times in time_list
     r_kj_2xyz = r_kj^2 + s_k2 - s_j2
     r_kl_2xyz = r_kl^2 + s_k2 - s_l2
 
-    # Equations
+    # Saralite Equations
     A = x_ikx / x_ijy
     B = x_ikz / x_ijy
     C = x_klx / x_kjy
